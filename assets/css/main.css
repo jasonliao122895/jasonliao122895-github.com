@@ -2671,7 +2671,9 @@ input, select, textarea {
 			}
 
 /* Spotlight */
-
+  .image img:hover {
+		opacity: 0.6;
+	}
 	.spotlight {
 		-moz-align-items: center;
 		-webkit-align-items: center;
